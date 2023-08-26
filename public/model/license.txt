@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d modle of boeing-e-767
+* source:	https://sketchfab.com/3d-models/3d-modle-of-boeing-e-767-108f0dc7e8ef47d798b281bd16cc2ccf
+* author:	BRO (https://sketchfab.com/musawork786)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d modle of boeing-e-767" (https://sketchfab.com/3d-models/3d-modle-of-boeing-e-767-108f0dc7e8ef47d798b281bd16cc2ccf) by BRO (https://sketchfab.com/musawork786) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

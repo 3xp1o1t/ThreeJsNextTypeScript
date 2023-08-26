@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+- npm install
+- add this to next.config.js
+  - transpilePackages: ['three'],
+- npm run dev
+
+## Development
+
+- npm install three @types/three @react-three/fiber @react-three/drei
+
 First, run the development server:
 
 ```bash
